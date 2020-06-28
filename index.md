@@ -14,3 +14,8 @@ Chuck Norris ist ein Kampfkünstler und Action-Schauspieler aus den Vereinigten 
 
 Im Film "Invasion U.S.A." (1985) sagte Matt Hunter (Chuck Norris):
 > Wenn du noch mal reinkommst, verpass ich dir so viele Rechte, dass du um eine Linke bettelst!
+
+## Bild
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Chuck_Norris_award_2.jpg"/>
+
