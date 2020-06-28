@@ -9,3 +9,8 @@ Chuck Norris ist ein Kampfkünstler und Action-Schauspieler aus den Vereinigten 
 * Chuck Norris kann unter Wasser grillen.
 * Chuck Norris kann eine Drehtür zuschlagen.
 * Chuck Norris kennt die letzte Ziffer von Pi.
+
+## Zitat
+
+Im Film "Invasion U.S.A." (1985) sagte Matt Hunter (Chuck Norris):
+> Wenn du noch mal reinkommst, verpass ich dir so viele Rechte, dass du um eine Linke bettelst!
