@@ -1,1 +1,3 @@
 # Chuck Norris
+
+Chuck Norris ist ein Kampfkünstler und Action-Schauspieler aus den Vereinigten Staaten von Amerika. In den 1960er Jahren begann Chuck Norris mit dem Kampfsport-Training der koreanischen Kampfkunst Tang Soo Do während seines Einsatzes bei der Militärpolizei in Korea. Chuck Norris ist ein hochgraduierter Meister im Tang Soo Do und Taekwondo. Eine Rolle im Film "Die Todeskralle schlägt wieder zu" an der Seite von Bruce Lee verhalf ihm 1972 zum Durchbruch im Filmgeschäft.
